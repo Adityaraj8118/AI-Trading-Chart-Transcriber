@@ -142,12 +142,14 @@ python main.py
 
 ### Version 2 (In Progress)
 
--   Better AI prompts
--   Improved accuracy
--   Better formatting
--   Enhanced workflow
+- Multi-image batch processing
+- Enhanced AI prompt engineering
+- Improved chart detection accuracy
+- Advanced Excel formatting
+- Trading signal confidence score
+- Performance optimization
 
-------------------------------------------------------------------------
+-------------------------------------------------------------------------
 
 ## Author
 
