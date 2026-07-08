@@ -1,8 +1,10 @@
 # AI Trading Chart Transcriber
 
 <p align="center">
-  <img src="./assets/logo/Logo.png" width="180">
+  <img src="./assets/logo/Logo.png" width="260">
 </p>
+
+![Project Banner](./assets/banner/banner.png)
 
 <h1 align="center">AI Trading Chart Transcriber</h1>
 
@@ -151,7 +153,9 @@ python main.py
 
 **Aditya Raj Gupta**
 
-GitHub: https://github.com/Adityaraj8118
+GitHub: [Aditya Raj Gupta](https://github.com/Adityaraj8118)
+
+Project Repository: https://github.com/Adityaraj8118/AI-Trading-Chart-Transcriber
 
 ------------------------------------------------------------------------
 
