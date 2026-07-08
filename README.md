@@ -1,5 +1,15 @@
 # AI Trading Chart Transcriber
 
+<p align="center">
+  <img src="./assets/logo/Logo.png" width="180">
+</p>
+
+<h1 align="center">AI Trading Chart Transcriber</h1>
+
+<p align="center">
+AI-powered Trading Chart Analysis using Google Gemini Vision API
+</p>
+
 > AI-powered Trading Chart Transcriber built with **Python** and
 > **Google Gemini Vision API** to automatically extract trading
 > indicators from **PowerPoint, PDF, and Images** into a structured
