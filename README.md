@@ -79,6 +79,10 @@ AI-Trading-Chart-Transcriber/
 └── README.md
 ```
 
+## 🏗️ System Architecture
+
+![System Architecture](./assets/diagrams/Diagram_1.png)
+
 ------------------------------------------------------------------------
 
 ## Installation
