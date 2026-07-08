@@ -1,0 +1,11 @@
+openai
+python-dotenv
+python-pptx
+PyMuPDF
+openpyxl
+pandas
+Pillow
+tqdm
+opencv-python
+numpy
+pytesseract
