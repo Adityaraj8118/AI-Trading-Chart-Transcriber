@@ -42,10 +42,8 @@ Any field the model cannot read with confidence is returned as `Unknown`.
 ```bash
 git clone https://github.com/Adityaraj8118/AI-Trading-Chart-Transcriber.git
 cd AI-Trading-Chart-Transcriber
-pip install google-genai python-dotenv openpyxl pywin32
+pip install -r requirements.txt
 ```
-
-> The current `requirements.txt` does not yet match the code. Use the command above until it is updated.
 
 Create a `.env` file in the project folder:
 

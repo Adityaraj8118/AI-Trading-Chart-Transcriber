@@ -1,6 +1,6 @@
 """
 ==============================================
-TradingVisionAI
+AI Trading Chart Transcriber
 Configuration File
 ==============================================
 """
@@ -10,14 +10,6 @@ from dotenv import load_dotenv
 
 # Load .env
 load_dotenv()
-
-# -----------------------------
-# API
-# -----------------------------
-
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-
-MODEL_NAME = "gpt-4.1-mini"
 
 # -----------------------------
 # Folder Paths

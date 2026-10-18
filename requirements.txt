@@ -1,11 +1,4 @@
-openai
+google-genai
 python-dotenv
-python-pptx
-PyMuPDF
 openpyxl
-pandas
-Pillow
-tqdm
-opencv-python
-numpy
-pytesseract
+pywin32; sys_platform == "win32"

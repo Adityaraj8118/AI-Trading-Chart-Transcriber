@@ -6,8 +6,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-print("Current folder:", os.getcwd())
-print("API Key:", os.getenv("GEMINI_API_KEY"))
 # -----------------------------------------
 # Gemini Client
 # -----------------------------------------
